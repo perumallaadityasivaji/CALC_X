@@ -5,6 +5,7 @@ Contains the Algebra Solver functionality: linear equations, quadratic
 equations, and basic polynomial calculations.
 """
 
+
 import math
 
 
